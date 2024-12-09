@@ -5,6 +5,4 @@
     $template = new ControllerTemplate;  //Llamar la clase 
     $template -> controllerTemplate(); // Llamar el metodo
 
-    
-
 ?>
